@@ -112,6 +112,7 @@
                                                     </tableColumns>
                                                     <connections>
                                                         <binding destination="100156" name="content" keyPath="arrangedObjects" id="100229"/>
+                                                        <binding destination="100156" name="selectionIndexes" keyPath="selectionIndexes" previousBinding="100229" id="MKx-V0-z9C"/>
                                                     </connections>
                                                 </tableView>
                                             </subviews>
