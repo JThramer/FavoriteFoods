@@ -102,7 +102,7 @@
                                                             </textFieldCell>
                                                             <tableColumnResizingMask key="resizingMask" resizeWithTable="YES" userResizable="YES"/>
                                                             <connections>
-                                                                <binding destination="100156" name="value" keyPath="arrangedObjects.name" id="100237">
+                                                                <binding destination="100156" name="value" keyPath="arrangedObjects.name" id="VBO-P2-XYD">
                                                                     <dictionary key="options">
                                                                         <bool key="NSConditionallySetsEnabled" value="YES"/>
                                                                     </dictionary>
@@ -111,8 +111,8 @@
                                                         </tableColumn>
                                                     </tableColumns>
                                                     <connections>
-                                                        <binding destination="100156" name="content" keyPath="arrangedObjects" id="100229"/>
-                                                        <binding destination="100156" name="selectionIndexes" keyPath="selectionIndexes" previousBinding="100229" id="MKx-V0-z9C"/>
+                                                        <binding destination="100156" name="content" keyPath="arrangedObjects" id="zrU-fH-imk"/>
+                                                        <binding destination="100156" name="selectionIndexes" keyPath="selectionIndexes" previousBinding="zrU-fH-imk" id="F1y-cC-BSH"/>
                                                     </connections>
                                                 </tableView>
                                             </subviews>
