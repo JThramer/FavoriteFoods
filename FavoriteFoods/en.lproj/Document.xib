@@ -11,7 +11,7 @@
             </connections>
         </customObject>
         <customObject id="-1" userLabel="First Responder" customClass="FirstResponder"/>
-        <arrayController mode="entity" entityName="Person" fetchPredicateFormat="personRequest" automaticallyPreparesContent="YES" id="100156" userLabel="Person">
+        <arrayController mode="entity" entityName="Person" fetchPredicateFormat="" automaticallyPreparesContent="YES" id="100156" userLabel="Person">
             <connections>
                 <binding destination="-2" name="managedObjectContext" keyPath="managedObjectContext" id="100193"/>
             </connections>
