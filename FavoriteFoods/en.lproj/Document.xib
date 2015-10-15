@@ -105,6 +105,7 @@
                                                                 <binding destination="100156" name="value" keyPath="arrangedObjects.name" id="VBO-P2-XYD">
                                                                     <dictionary key="options">
                                                                         <bool key="NSConditionallySetsEnabled" value="YES"/>
+                                                                        <string key="NSNullPlaceholder">&lt;None&gt;</string>
                                                                     </dictionary>
                                                                 </binding>
                                                             </connections>
